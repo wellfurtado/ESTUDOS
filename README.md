@@ -1,7 +1,13 @@
 # ESTUDOS
 
-˜˜˜ Estudo em védeo
-˜˜˜
+~~~javascript
+Esta é uma linha de código em Javascript.
+~~~
 
-˜˜˜ Alura
-˜˜˜
+~~~php
+Esta é uma linha de código em PHP.
+~~~
+
+~~~html
+Esta é uma linha de código em HTML.
+~~~
