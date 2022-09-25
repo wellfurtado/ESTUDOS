@@ -1,5 +1,5 @@
 # ESTUDOS
-˜˜˜Estudo em védeo
+˜˜˜ Estudo em védeo
 ˜˜˜
-˜˜˜Alura
+˜˜˜ Alura
 ˜˜˜
