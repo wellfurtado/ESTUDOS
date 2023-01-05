@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>imagens</title>
+</head>
+<body>
+    <h1>Imagens dinamicas</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut cupiditate quae quos reiciendis vero. Ab adipisci dolor dolore doloribus ducimus facere fugiat iusto, maxime molestiae nemo quae quas qui quidem.</p>
+    <picture>
+        <source media="(max-width: 725px)" srcset="imagens/foto-p.png" type="image/png">
+        <source media="(max-width: 1025px)" srcset="imagens/foto-m.png" type="image/png">
+        <img src="imagens/foto-g.png" alt="imagem flexivel">
+    </picture>
+
+    <h1>Reproduzindo audio</h1>
+    <audio src="midia/som.mp3" controls preload="metadata" loop></audio>
+</body>
+</html>
